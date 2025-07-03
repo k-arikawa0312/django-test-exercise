@@ -22,3 +22,4 @@ def index(request):
     }
 
     return render(request, 'todo/index.html', context)
+    
